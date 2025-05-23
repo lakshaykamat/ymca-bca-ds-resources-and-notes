@@ -1,5 +1,6 @@
-# YMCA BCA DS resources
-Compreshensive notes of ymca university BCA data science rescoures and stuff of the batch 2022-2025
+# BCA Data Science (2022–2025) – YMCA University
+
+This repository is designed to serve as a centralized hub for all academic materials related to the BCA Data Science program at YMCA University. It encompasses semester-wise notes, lab manuals, project guidelines, and recommended resources to aid students throughout their academic journey.
 
 
 ![](https://images.careerindia.com/college-photos/7004/front_1657028407.jpg)
