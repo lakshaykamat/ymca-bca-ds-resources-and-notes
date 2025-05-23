@@ -1,0 +1,14 @@
+#!/bin/bash
+
+echo "Today is $(date)"
+
+echo -e "\nEnter the path to a directory:"
+read the_path
+
+if [ -d "$the_path" ]; then
+    echo -e "\nYour path has the following files and folders:"
+    ls "$the_path"
+else
+    echo "The specified path is not a directory or does not exist."
+fi
+
